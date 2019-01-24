@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  #code your solution here:
+  maleUpdate = epic_tragedy[:hero => status] = "dead"
 
   
 
